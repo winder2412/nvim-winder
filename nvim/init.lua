@@ -33,4 +33,6 @@ require("lazy").setup({
 		dependencies = { "nvim-tree/nvim-web-devicons" }
 	},
 	"mbbill/undotree",
+    "nvim-lua/plenary.nvim",
+    "ThePrimeagen/harpoon",
 })
